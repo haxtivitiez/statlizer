@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="aisstatlizer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/aisstatlizer_jar</output-path>
+    <root id="archive" name="aisstatlizer.jar">
+      <element id="module-output" name="aisstatlizer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.6/commons-lang3-3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/andreinc/ansiscape/ansiscape/0.0.2/ansiscape-0.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

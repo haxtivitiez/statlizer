@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: xyz.un4ckn0wl3z.ais.tools.statlizer.App
+
