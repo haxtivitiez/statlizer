@@ -5,7 +5,7 @@ Statlizer is a simple tool for printing statistics log on application server usi
 - JRE 1.6 ++
 ### Details
 
-- This is command line application, using Cmder for luncher.
+- This is command line application, using Cmder for launcher.
 - Log file can be absolute file path or reading file from url, both support
 
 ### Guide
