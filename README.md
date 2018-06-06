@@ -1,5 +1,8 @@
 # Statlizer
 Statlizer is a simple tool for printing statistics log on application server using common Java library.
+
+### Required
+- JRE 1.6 ++
 ### Details
 
 - This is command line application, using Cmder for luncher.
